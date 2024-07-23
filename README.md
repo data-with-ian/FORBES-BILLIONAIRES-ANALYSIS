@@ -3,6 +3,10 @@
 
 Inspired by my keen interest in global wealth distribution, I embarked on this project to analyze the financial growth, trends, and patterns of global billionaires as ranked by Forbes in April 2024 over the past year.
 
+![Billionaires dashboard](https://github.com/user-attachments/assets/dbd3589d-bb70-4d9e-8f7b-aa0e64ba4d6c)
+
+
+
 ### TABLE OF CONTENTS
 
 - [DATA SOURCE](#data-source)
